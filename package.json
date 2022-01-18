@@ -1,5 +1,5 @@
 {
-  "name": "@alexkranov/ajs1",
+  "name": "@alexkranov/ajs",
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexKranov/ajs1.git"
+    "url": "git+https://github.com/AlexKranov/ajs.git"
   },
   "author": "alexkranov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlexKranov/ajs1/issues"
+    "url": "https://github.com/AlexKranov/ajs/issues"
   },
-  "homepage": "https://github.com/AlexKranov/ajs1#readme",
+  "homepage": "https://github.com/AlexKranov/ajs#readme",
   "description": "",
   "dependencies": {
     "@babel/cli": "^7.16.8",
