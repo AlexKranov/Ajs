@@ -19,13 +19,5 @@
     "url": "https://github.com/AlexKranov/ajs/issues"
   },
   "homepage": "https://github.com/AlexKranov/ajs#readme",
-  "description": "",
-  "dependencies": {
-    "@babel/cli": "^7.15.4",
-    "@babel/core": "^7.15.5",
-    "@babel/preset-env": "^7.15.6",
-    "babel-loader": "^8.2.3",
-    "webpack": "^5.52.1",
-    "webpack-cli": "^4.8.0"
-  }
+  "description": ""
 }
